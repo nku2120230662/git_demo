@@ -8,4 +8,6 @@ int main()
     int b = 10;
     int sum = add(a, b);
     cout << "The sum of " << a << " and " << b << " is: " << sum << endl;
+    int difference = minusf(a, b);
+    cout << "The difference of " << a << " and " << b << " is: " << difference << endl;
 }

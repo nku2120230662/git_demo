@@ -3,3 +3,8 @@ int add(int a, int b)
 {
     return a + b;
 }
+
+int minusf(int a, int b)
+{
+    return a - b;
+}
