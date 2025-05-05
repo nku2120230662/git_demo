@@ -10,4 +10,7 @@ int main()
     cout << "The sum of " << a << " and " << b << " is: " << sum << endl;
     int difference = minusf(a, b);
     cout << "The difference of " << a << " and " << b << " is: " << difference << endl;
+    int product = multiplyf(a, b);
+    cout << "The product of " << a << " and " << b << " is: " << product << endl;
+    return 0;
 }
